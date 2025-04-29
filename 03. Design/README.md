@@ -1,2 +1,2 @@
 # Research
-Contains research documents, background studies, and related information supporting the project.
+Contains research documents, background studies, and related information supporting the project. Wenona!
